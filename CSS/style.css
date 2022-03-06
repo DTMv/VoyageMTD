@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Hubballi&family=League+Gothic&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=League+Gothic&display=swap");
+
+@import url("components/avatar.css");
+
+@import url("components/banner.css");
+
+@import url("components/button.css");
+
+@import url("components/card.css");
+
+@import url("components/containers.css");
+
+* Colors and fonts */
+
+	body{
+		background:#F2F8F3;
+		color:#374043;
+		font-family: 'Hubballi', sans-serif;
+		font-size: 16px;
+		font-weight: 300;
+		margin: 0px;
+	}
+
+	h2{color:#0E3A43;
+		font-size: 24px;
+		font-weight: 400;
+	}
+	a{
+		text-decoration: none;
+		color:#0E3A43;
+		font-family: 'League Gothic', sans-serif;
+		font-weight: 400;
+		transition: color 0.3s ease;
+		transition: background-color 0.3s ease;
+	}
+
+	a:hover {
+		color:#1D7587;
+	}
+	<div>{
+		background: white;
+		padding: 30px;
+		border-radius: 10px;
+		box-shadow: 0 10px 30px rgba(0,0,0,.1);
+	}

@@ -1,0 +1,18 @@
+.banner{
+	background-image: url("../../images/airport.jpg");
+	background-size: 317px;
+	color: white;
+	padding: 317px 0px;
+}
+
+.banner h1{
+	font-size: 50px;
+	color: white;
+}
+
+.banner h2{
+	font-size: 30px;
+	font-weight: lighter;
+	margin-bottom: 40px;
+	color: transparent;
+}
